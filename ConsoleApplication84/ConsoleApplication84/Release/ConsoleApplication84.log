@@ -1,0 +1,25 @@
+﻿  stdafx.cpp
+  Golem.cpp
+  Heroes.cpp
+  MOBS.cpp
+  RPG.cpp
+RPG.cpp(11): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Skeleton.cpp
+  Skill.cpp
+  Warrior.cpp
+Warrior.cpp(45): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+Warrior.cpp(97): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+Warrior.cpp(99): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+Warrior.cpp(113): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+Warrior.cpp(224): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+Warrior.cpp(225): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+Warrior.cpp(227): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+Warrior.cpp(235): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+Warrior.cpp(236): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+Warrior.cpp(237): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+Warrior.cpp(238): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  WarriorSkill.cpp
+  Создание кода
+  All 101 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  ConsoleApplication84.vcxproj -> C:\Users\user\Desktop\Desktop\ConsoleApplication84\Release\RPG.exe
